@@ -23,9 +23,9 @@ layout: default
 
 ## EDUCATION (Highest: Master)
 
-### Concordia University
+### **Master of Applied Science, Software Engineering**
 
-> Montreal, Canada | Master of Applied Science Software Engineering (August 2023 – Present)
+> Concordia University, Montreal, Canada (August 2023 – Present)
 
 - **Research-Based Program**([Supervisor](https://petertsehsun.github.io/)): Focused on combining LLMs and advanced testing techniques to enhance code generation quality.
 
@@ -40,9 +40,9 @@ layout: default
   - *Concordia SOEN 7481*: Software Verification & Testing (Python-based projects)  
   - *Concordia SOEN 6491*: Software Refactoring (Java-based projects)  
 
-### Xidian University
+### Bachelor of Information Security
 
-> Xi’An, China | Bachelor of Information Security (August 2013 – July 2017)
+> Xidian University, Xi’an, China (August 2013 – July 2017)
 
 - **GPA**: 3.7/4.0  
 - **Key Courses**:  
