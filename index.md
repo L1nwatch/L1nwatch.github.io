@@ -27,30 +27,29 @@ layout: default
 
 > Montreal, Canada | Master of Applied Science Software Engineering (August 2023 – Present)
 
-- **Research-Based Program**([Supervisor](https://petertsehsun.github.io/)): Combine LLM, Test Techniques to improve the quality of code generation
+- **Research-Based Program**([Supervisor](https://petertsehsun.github.io/)): Focused on combining LLMs and advanced testing techniques to enhance code generation quality.
 
-commit 3 papers(2 accepted, 1 under processing):
+- **Publications**: 2 Accepted at ICSE 2025 (47th IEEE International Conference), 1 Under Review
+  - **[ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#Accepted-papers-First-and-Second-Cycle) (1st Author, Cited 27 Times)**: [`SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents`](https://arxiv.org/abs/2403.15852)  
+  - **[ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice#Accepted-Papers) (2nd Author)**: *GUIWatcher: Automatically Detecting GUI Lags by Analyzing Mobile Application Screencasts*  
+  - **Under Review (1st Author)**: Study on how LLM API updates affect code generation performance.   
 
-* ICSE 2025 accepted(1st author): `SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents`
-* ICSE 2025 accepted(2nd author): `GUIWatcher: Automatically Detecting GUI Lags by Analyzing Mobile Application Screencasts`
-* under precessing(1st author): Study how LLM api updates affect code generation performance
+- **Courses (CGPA: 4.15/4.30)**:
+  - *McGill ECSE 688*: Automated Software Testing and Analysis (Java-based projects)  
+  - *Concordia SOEN 691*: Generative AI for Software Engineering (Python-based projects)  
+  - *Concordia SOEN 7481*: Software Verification & Testing (Python-based projects)  
+  - *Concordia SOEN 6491*: Software Refactoring (Java-based projects)  
 
-`Courses`(CGPA 4.15/4.30): 
+### Xidian University
 
-* McGill-ECSE688-Automated Software Testing and Analysis(Java projects)
-* Concordia-SOEN 691-Generative AI for Software Eng(Python projects)
-* Concordia-SOEN 7481-SOFTWARE VERIFICAT N/TESTING(Python projects)
-* Concordia-SOEN 6491-SOFTWARE REFACTORING(Java projects)
+> Xi’An, China | Bachelor of Information Security (August 2013 – July 2017)
 
-### Xidian University (Bachelor degree)
-
-> Xi’An, China, Bachelor of Information Security, August 2013 - July 2017
-
-`Courses`(GPA 3.7/4.0):
-
-C/C++, Data Structure Algorithm Analysis, Cryptography, Computer Networks,
-Software Reverse Engineering, Operating System Principles, Principles of Database, etc...
-
+- **GPA**: 3.7/4.0  
+- **Key Courses**:  
+  - Programming (C/C++, Data Structures, Algorithm Analysis)  
+  - Cybersecurity (Cryptography, Software Reverse Engineering, Network Security)  
+  - Systems (Operating Systems, Database Principles, Computer Networks) 
+  
 ---
 
 ## WORK 
