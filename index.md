@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-## **SKILLS**
+## **Skills**
 
 - `Languages`: English (TOEFL 97, IELTS 7.5), Chinese (Native)
 - `Programming`: Proficient in Python; basic knowledge of Shell, Java, JavaScript, and C/C++.
@@ -21,7 +21,7 @@ layout: default
 
 ---
 
-## **EDUCATION (Highest: Master)**
+## **Education (Highest: Master)**
 
 ### **Master of Applied Science, Software Engineering**
 
@@ -52,65 +52,51 @@ layout: default
   
 ---
 
-## WORK 
+## **Work Experience**  
 
-Total 5.5 years experience, mostly in Software Engineering In Test(SDET)
+**Total Experience**: 5.5 years, specializing in Software Engineering in Test (SDET)
 
-### Huawei (0.4 years)
+### **Huawei**  
 
-> Waterloo Centre for Software Excellence(2012 Laboratories), Canada - Intern, 2024.4 - present
+> Waterloo Centre for Software Excellence (2012 Laboratories), Canada - Intern (April 2024 – Present)
 
-My major duty is to study the state-of-the-art testing technology and apply it to offer test ability for qa team, to support huawei products testing. Some algorithms we offered to the testing teams are listed below:
+- Researched state-of-the-art testing technologies to enhance QA capabilities for Huawei testing teams.  
+- **Key Contributions**:  
+  - **`Mobile OS Jank Detection`**: Designed and implemented algorithms leveraging SSIM and YOLO to automatically detect jank issues (e.g., screen stuttering) during mobile system testing. 
+  - **`Abnormal Version Change Detection`**: Monitored performance metrics (e.g., response times) to identify performance reductions or improvements using outlier detection techniques such as iForest.  
+  - **`Video Application Jank Detection`**: Automated detection of performance issues in video apps (e.g., TikTok) using SSIM and difference comparison algorithms.
 
-* `Mobile operate system Jank/Issue Detection`: Based on testing mobile system operation recordings, automatic detect any jank moments(or other issues like screen shuttering) happens while tester operating. This technical service is offered by combining SSIM and yolo.
-* `Abnormal Version Change Detection`: Based on historical testing metrics data(e.g., response time in each operation), monitor version change to see if performance has been increasement or decreasement, and automatic detect any abnormal version change(decrease the perofmrance). This technical service is offered by multiple outlier data point detection techniques(e.g., iForest).
-* `Video-Application jank detection`: Based on testing recordings, Automatic detect whether if video application(like tiktok) would have performance issues(can't load video/slowly load/etc...). This alogirthm is supported by ssim and some diff compare algorithm.
+### **Alibaba**  
 
-### Alibaba (0.5 years)
+> Local Life Service, Shanghai, China – SDET (January 2023 – July 2023)
 
-> Local Life Service, Shanghai China - SDET, 2023.1 - 2023.7
+- Ensured the quality of cloud services supporting food delivery apps, enabling features such as restaurant listings, menu displays, promotional offers, and delivery status tracking. These services supported `Eleme` (260 million monthly active users) and `AMap` (622 million monthly active users).
+- **Key Contributions**:  
+  - **API Testing**: Designed and executed test cases using Postman, modifying API parameters and call chains to validate functionality and ensure data integrity. 
+  - **Automation Testing**: Developed Java test scripts to simulate user scenarios, incorporating parameter fuzzing to expand test coverage. 
+  - **Performance Testing**: Designed performance test plans and utilized JMeter to send requests while monitoring server metrics (e.g., QPS, memory, CPU, IO usage) to identify performance issues.
 
-My major duty is to ensure the quality of cloud service. Our cloud service serves different apps
-and has different functions, such as showing the list of restaurants in the map app, showing the
-list of menus in each restaurant and showing some promotions related to them, offering online
-orders service, tracking delivery status, etc. Some tasks are listed below:
+### **TCL**  
 
-* `API testing`: use built-in test tools to trigger interface data and modify values to verify different test cases, record the correct dataflow as the regression test scripts
-* `Write automation test scripts`: write Java test scripts to simulate how a user uses the apps by combining different API invokes in a specific order. 
-* `Performance testing`: write Java test scripts to trigger multiple interface requests in a short time, monitor(memory/CPU/IO), and analyze the servers’ performance(QPS/…)
+> Internet of Things, Shenzhen, China – SDET & Test Team Leader (July 2019 – June 2022)
+ 
+- Designed and implemented QA solutions for TCL smart home IoT ecosystems, involving voice control, apps, cloud services, and smart devices (e.g., TVs, ACs).  
+- **Key Contributions**:  
+  - **Team Management**: Integrated Agile/DevOps practices to build CI/CD workflows, boosting team efficiency by 230% and reducing testing time by 19% for 20+ product versions.  
+  - **IoT Test Framework**: Designed and developed a Python-based test framework employing keyword, data-driven, and unittest methodologies, providing more than 44 automated solutions for diverse IoT scenarios (e.g., automating door lock controls using robot arms). 
+  - **Quality Standard Design and Execution**: As a TSE, applied ISO25000 to define standards (e.g., acceptable unresolved bug nums for version releases). Actively participated in key meetings, such as test case review sessions, to ensure these standards were followed. 
 
-### TCL (3 years)
+### **Sangfor**
 
-> Internet of Things, Shenzhen China - SDET & Team Leader, 2019.7 - 2022.6
+> Security Products, Shenzhen, China – Automation/Security Test Engineer (July 2017 – February 2019)
 
-My major duty is to design and implement different quality assurance solutions in a smart home
-scene(IoT). We need to test 4+ endpoints(voice control/app/cloud/TV). For example, user can
-power on the TV using their voice or apps on their phone. The command will then be sent to
-the cloud server and processed inside the TV device. Thus we need to ensure the software
-quality across four endpoints at this simple scene, test if the command is successfully
-conveyed, and if the TV rightly responds, and so on. Some tasks are listed below:
+- Conducted automated testing of cybersecurity products, including network firewalls and ML-based virus detection engines.  
+- **Key Contributions**:  
+  - **Hack Dataset Collection and Performance Evaluation**: Utilized Python+requests to download virus files from websites and Scapy to generate network hack request samples for testing. Integrated external services (e.g., VirusTotal) to automate sample labeling, then evaluated product performance against these attacks by calculating metrics such as accuracy and recall rates.
+  - **Web Automation Testing**: Developed Selenium-based test scripts to automate web UI interactions and validate the correctness and execution of network firewall configurations. 
+  - **Test Resources Tracking Platform**: Developed shell scripts to gather test device usage data, displaying the results on a Python Django web dashboard for test engineers.
 
-* `Team Management`: import Agile/DevOps to the team, build CI/CD testing workflow, improve 230% the team’s efficacy and cut down 19% test period in 20+ versions
-* `IoT Test Framework`: create a test framework(Python) based on the ‘keyword/data drive test’ theory, and offer 44+ automation test methods for the IoT Test Scene
-* `Scene Automation Test Scripts`: based on the framework, autotest IoT scene (i.e. Control door locks by robot arms and then invoke APIs to check these devices’ cloud status)
-
-### Sangfor (1.6 years)
-
-> Security Products, Shenzhen China - Automation/Security Test Engineer, 2017.7 - 2019.2
-
-My major duty is to write automated scripts to collect datasets and test our security
-products(network Firewall/Virus detection engine, etc.). For example, to test the firewall, we
-need to imitate the network attack via scripts and check whether the firewall can block this data
-packet. Meanwhile, Sangfor uses some machine learning(AI) technology in the products, such
-as judging if a file is a virus or a normal file. So as test engineers we need to collect lots of files
-from online open sources and do some file fuzzing, to support AI training and analyze the
-Accuracy and False Positive Rate of this AI. Some tasks are listed below:
-
-* `Collect Test Datasets`: use Python+requests to collect URLs for testing(i.e. collect all URLs from websites and then invoke BlackChain API to check if they contain threat info)
-* `Web Automation Test Scripts`: write Python+Selenium+unittest test scripts to automation click the network firewall web configure buttons and check the pages’ display
-* `Develop Statistics Platform`: write shell scripts to collect test devices’ configurations/usage, display status on a Python Django website for other testers
-
-## **AWARDS**
+## **Awards**
 
 | Organization         | Title                                                   | Year      |
 |:---------------------|:--------------------------------------------------------|:----------|
