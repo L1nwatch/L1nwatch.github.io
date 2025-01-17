@@ -17,7 +17,7 @@ layout: default
   - **Automation**: Selenium (Web), Appium (Mobile), Python with unittest(General), etc.
   - **Development**: PyCharm (IDE), MySQL & MongoDB (Databases), Flask (Web), OpenAI API (LLM Integration), etc.
   - **DevOps & CI/CD**: Docker, Conda, Git, GitHub Actions, Jenkins, etc.
-  - **Management Platforms**: Jira and some internal platforms (Project, Test Cases, and Bugs tracking).
+  - **Others**: Jira (Team & Project Tracking), Agile & Waterfall (Development Model).
 
 ---
 
