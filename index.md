@@ -44,8 +44,7 @@ layout: default
 
 > Xidian University, Xi’an, China (August 2013 – July 2017)
 
-- **GPA**: 3.7/4.0  
-- **Key Courses**:  
+- **Key Courses (GPA: 3.7/4.0)**:  
   - Programming (C/C++, Data Structures, Algorithm Analysis)  
   - Cybersecurity (Cryptography, Software Reverse Engineering, Network Security)  
   - Systems (Operating Systems, Database Principles, Computer Networks) 
@@ -58,7 +57,7 @@ layout: default
 
 ### **Huawei**  
 
-> Waterloo Centre for Software Excellence (2012 Laboratories), Canada - Research Supporter (April 2024 – Present)
+> Waterloo Centre for Software Excellence (2012 Laboratories), Canada - Support Researcher (April 2024 – Present)
 
 - Researched state-of-the-art testing technologies to enhance QA capabilities for Huawei testing teams.  
 - **Key Contributions**:  
