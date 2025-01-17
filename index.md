@@ -4,15 +4,22 @@ layout: default
 
 # Resume
 
+---
+
 ## SKILLS
 
 - `Languages`: English (TOEFL 97, IELTS 7.5), Chinese (Native)
-* `Program`: Python(familiar), know others like Shell/Java/JavaScript/C/C++/Ruby
-* `Quality Assurance`: Test Solution Design/Functionality/Automation/Performance/Security
-* `Area Experience`: Cloud Service(Delivery/Map/IoT/Safe-Monitor backend platform), Internet of Things(Smart TV/locker/AC/...), Security Products(Network Firewall/Endpoint Protection/etc.)
-* `Work Tools`: Selenium/Appium/Jmeter/Postman/Docker/Git/Kali/IDA/Jira/OpenaiAPI/…
+- `Programming`: Proficient in Python; basic knowledge of Shell, Java, JavaScript, and C/C++.
+- `Quality Assurance`: Test Design, Functional/Automation/Performance/Security Testing
+- `Product Experience`: AI-Based Solutions (LLM & ML, such as Virus Detection Engines), Cloud Services (Food Delivery, IoT Platforms), Mobile & Web Applications (IoT, Network Firewalls), Other Domains (IoT Smart Devices, Custom OS Testing, etc.)
+- `Tools & Frameworks`:
+  - **Testing Tools**: Postman (API), JMeter (Performance), Kali Linux (Security), etc.
+  - **Automation**: Selenium (Web), Appium (Mobile), Python with unittest(General), etc.
+  - **Development**: PyCharm (IDE), MySQL & MongoDB (Databases), Flask (Web), OpenAI API (LLM Integration), etc.
+  - **DevOps & CI/CD**: Docker, Conda, Git, GitHub Actions, Jenkins, etc.
+  - **Management Platforms**: Jira, Metasphere (Project Progress, Test Case, Bug).
 
-# EXPERIENCE
+---
 
 ## EDUCATION (Highest: Master Degree)
 
@@ -43,6 +50,8 @@ commit 3 papers(2 accepted, 1 under processing):
 
 C/C++, Data Structure Algorithm Analysis, Cryptography, Computer Networks,
 Software Reverse Engineering, Operating System Principles, Principles of Database, etc...
+
+---
 
 ## WORK 
 
