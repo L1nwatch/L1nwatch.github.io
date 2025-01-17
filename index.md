@@ -21,13 +21,13 @@ layout: default
 
 ---
 
-## EDUCATION (Highest: Master Degree)
+## EDUCATION (Highest: Master)
 
-### Concordia University (Master Degree)
+### Concordia University
 
-> Montreal, Canada, Master of Applied Science Software Engineering, August 2023 - present
+> Montreal, Canada | Master of Applied Science Software Engineering (August 2023 – Present)
 
-`Research-Based`([Supervisor](https://petertsehsun.github.io/)): Combine LLM, Test Techniques to improve the quality of code generation
+- **Research-Based Program**([Supervisor](https://petertsehsun.github.io/)): Combine LLM, Test Techniques to improve the quality of code generation
 
 commit 3 papers(2 accepted, 1 under processing):
 
@@ -42,7 +42,7 @@ commit 3 papers(2 accepted, 1 under processing):
 * Concordia-SOEN 7481-SOFTWARE VERIFICAT N/TESTING(Python projects)
 * Concordia-SOEN 6491-SOFTWARE REFACTORING(Java projects)
 
-### Xidian University (bechlor degree)
+### Xidian University (Bachelor degree)
 
 > Xi’An, China, Bachelor of Information Security, August 2013 - July 2017
 
@@ -113,21 +113,20 @@ Accuracy and False Positive Rate of this AI. Some tasks are listed below:
 
 # AWARDS
 
-| Organization        | Title          | Year      |
-|:-------------|:------------------|:----------|
-| Concordia           | Concordia Merit Scholarship | 2025      |
-| Concordia           | Concordia Merit Scholarship | 2024      |
-| Alibaba | 228th newcomer Learning Star (top 15%)   | 2023      |
-| TCL           | Excellent employee of year-2020 (top5%)      | 2021      |
-| TCL           | Patent Expert in Test Engineering (16 patents)      | 2019-2022 |
-| TCL           | multiple S (KPI Performance Level) | 2019-2022 |
-| Sangfor           | Excellent employee of year-2018 | 2019      |
-| Sangfor           | Excellent newcomer of year-2017 | 2018      |
-| Sangfor           | Innovative gold coin prize of 2018 (20 quotas per year) | 2018      |
-| Sangfor           | The innovative team of 2018 (5 quotas per year) | 2018      |
-| Sangfor           | 8 times Quarterly Excellence Rewards | 2017-2019 |
-| Xidian University           | National Encouragement scholarship | 2016      |
-| Xidian University           | The First Prize Scholarship | 2015      |
-| Xidian University           | Outstanding Student | 2015      |
-| Xidian University           | Special Scholarship/National Scholarship | 2014      |
-| Xidian University           | Outstanding Student Mode | 2014      |
+| Organization         | Title                                                   | Year      |
+|:---------------------|:--------------------------------------------------------|:----------|
+| Concordia University | Concordia Merit Scholarship                             | 2025      |
+| Concordia University | Concordia Merit Scholarship                             | 2024      |
+| Alibaba              | 228th Newcomer Learning Star (Top 15%)                  | 2023      |
+| TCL                  | Excellent Employee of the Year 2020 (Top 5%)            | 2021      |
+| TCL                  | Patent Expert in Test Engineering (16 Accepted Patents) | 2019-2022 |
+| Sangfor              | Excellent Employee of the Year 2018                     | 2019      |
+| Sangfor              | Excellent Newcomer of the Year 2017                     | 2018      |
+| Sangfor              | Innovative Gold Coin Prize 2018 (Top 20 Annually)       | 2018      |
+| Sangfor              | Innovative Team Award 2018 (Top 5 Annually)             | 2018      |
+| Sangfor              | Quarterly Excellence Award (8-Time Recipient)           | 2017-2019 |
+| Xidian University    | National Encouragement Scholarship                      | 2016      |
+| Xidian University    | First Prize Scholarship                                 | 2015      |
+| Xidian University    | Outstanding Student Award                               | 2015      |
+| Xidian University    | Special & National Scholarship                          | 2014      |
+| Xidian University    | Outstanding Student Model                               | 2014      |
