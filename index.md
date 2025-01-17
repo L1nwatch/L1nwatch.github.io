@@ -58,7 +58,7 @@ layout: default
 
 ### **Huawei**  
 
-> Waterloo Centre for Software Excellence (2012 Laboratories), Canada - Intern (April 2024 – Present)
+> Waterloo Centre for Software Excellence (2012 Laboratories), Canada - Research Supporter (April 2024 – Present)
 
 - Researched state-of-the-art testing technologies to enhance QA capabilities for Huawei testing teams.  
 - **Key Contributions**:  
@@ -72,9 +72,9 @@ layout: default
 
 - Ensured the quality of cloud services supporting food delivery apps, enabling features such as restaurant listings, menu displays, promotional offers, and delivery status tracking. These services supported `Eleme` (260 million monthly active users) and `AMap` (622 million monthly active users).
 - **Key Contributions**:  
-  - **API Testing**: Designed and executed test cases using Postman, modifying API parameters and call chains to validate functionality and ensure data integrity. 
-  - **Automation Testing**: Developed Java test scripts to simulate user scenarios, incorporating parameter fuzzing to expand test coverage. 
-  - **Performance Testing**: Designed performance test plans and utilized JMeter to send requests while monitoring server metrics (e.g., QPS, memory, CPU, IO usage) to identify performance issues.
+  - **`API Testing`**: Designed and executed test cases using Postman, modifying API parameters and call chains to validate functionality and ensure data integrity. 
+  - **`Automation Testing`**: Developed Java test scripts to simulate user scenarios, incorporating parameter fuzzing to expand test coverage. 
+  - **`Performance Testing`**: Designed performance test plans and utilized JMeter to send requests while monitoring server metrics (e.g., QPS, memory, CPU, IO usage) to identify performance issues.
 
 ### **TCL**  
 
@@ -82,9 +82,9 @@ layout: default
  
 - Designed and implemented QA solutions for TCL smart home IoT ecosystems, involving voice control, apps, cloud services, and smart devices (e.g., TVs, ACs).  
 - **Key Contributions**:  
-  - **Team Management**: Integrated Agile/DevOps practices to build CI/CD workflows, boosting team efficiency by 230% and reducing testing time by 19% for 20+ product versions.  
-  - **IoT Test Framework**: Designed and developed a Python-based test framework employing keyword, data-driven, and unittest methodologies, providing more than 44 automated solutions for diverse IoT scenarios (e.g., automating door lock controls using robot arms). 
-  - **Quality Standard Design and Execution**: As a TSE, applied ISO25000 to define standards (e.g., acceptable unresolved bug nums for version releases). Actively participated in key meetings, such as test case review sessions, to ensure these standards were followed. 
+  - **`Team Management`**: Integrated Agile/DevOps practices to build CI/CD workflows, boosting team efficiency by 230% and reducing testing time by 19% for 20+ product versions.  
+  - **`IoT Test Framework`**: Designed and developed a Python-based test framework employing keyword, data-driven, and unittest methodologies, providing more than 44 automated solutions for diverse IoT scenarios (e.g., automating door lock controls using robot arms). 
+  - **`Quality Standard Design and Execution`**: As a TSE, applied ISO25000 to define standards (e.g., acceptable unresolved bug nums for version releases). Actively participated in key meetings, such as test case review sessions, to ensure these standards were followed. 
 
 ### **Sangfor**
 
@@ -92,9 +92,9 @@ layout: default
 
 - Conducted automated testing of cybersecurity products, including network firewalls and ML-based virus detection engines.  
 - **Key Contributions**:  
-  - **Hack Dataset Collection and Performance Evaluation**: Utilized Python+requests to download virus files from websites and Scapy to generate network hack request samples for testing. Integrated external services (e.g., VirusTotal) to automate sample labeling, then evaluated product performance against these attacks by calculating metrics such as accuracy and recall rates.
-  - **Web Automation Testing**: Developed Selenium-based test scripts to automate web UI interactions and validate the correctness and execution of network firewall configurations. 
-  - **Test Resources Tracking Platform**: Developed shell scripts to gather test device usage data, displaying the results on a Python Django web dashboard for test engineers.
+  - **`Hack Dataset Collection and Performance Evaluation`**: Utilized Python+requests to download virus files from websites and Scapy to generate network hack request samples for testing. Integrated external services (e.g., VirusTotal) to automate sample labeling, then evaluated product performance against these attacks by calculating metrics such as accuracy and recall rates.
+  - **`Web Automation Testing`**: Developed Selenium-based test scripts to automate web UI interactions and validate the correctness and execution of network firewall configurations. 
+  - **`Test Resources Tracking Platform`**: Developed shell scripts to gather test device usage data, displaying the results on a Python Django web dashboard for test engineers.
 
 ## **Awards**
 
