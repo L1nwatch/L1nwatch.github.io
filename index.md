@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-## SKILLS
+## **SKILLS**
 
 - `Languages`: English (TOEFL 97, IELTS 7.5), Chinese (Native)
 - `Programming`: Proficient in Python; basic knowledge of Shell, Java, JavaScript, and C/C++.
@@ -21,7 +21,7 @@ layout: default
 
 ---
 
-## EDUCATION (Highest: Master)
+## **EDUCATION (Highest: Master)**
 
 ### **Master of Applied Science, Software Engineering**
 
@@ -40,7 +40,7 @@ layout: default
   - *Concordia SOEN 7481*: Software Verification & Testing (Python-based projects)  
   - *Concordia SOEN 6491*: Software Refactoring (Java-based projects)  
 
-### Bachelor of Information Security
+### **Bachelor of Information Security**
 
 > Xidian University, Xi’an, China (August 2013 – July 2017)
 
@@ -110,7 +110,7 @@ Accuracy and False Positive Rate of this AI. Some tasks are listed below:
 * `Web Automation Test Scripts`: write Python+Selenium+unittest test scripts to automation click the network firewall web configure buttons and check the pages’ display
 * `Develop Statistics Platform`: write shell scripts to collect test devices’ configurations/usage, display status on a Python Django website for other testers
 
-# AWARDS
+## **AWARDS**
 
 | Organization         | Title                                                   | Year      |
 |:---------------------|:--------------------------------------------------------|:----------|
