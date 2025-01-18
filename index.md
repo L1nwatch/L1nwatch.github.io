@@ -30,7 +30,7 @@ layout: default
 - **Research-Based Program**([Supervisor](https://petertsehsun.github.io/)): Focused on combining LLMs and advanced testing techniques to enhance code generation quality.
 
 - **Publications**: 2 Accepted at ICSE 2025 (47th IEEE International Conference), 1 Under Review
-  - **[ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#Accepted-papers-First-and-Second-Cycle) (1st Author, Cited 27 Times)**: [`SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents`](https://arxiv.org/abs/2403.15852)  
+  - **[ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track#Accepted-papers-First-and-Second-Cycle) (1st Author, Cited 29 Times)**: [`SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents`](https://arxiv.org/abs/2403.15852)  
   - **[ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice#Accepted-Papers) (2nd Author)**: `GUIWatcher: Automatically Detecting GUI Lags by Analyzing Mobile Application Screencasts`  
   - **Under Review (1st Author)**: Study on how LLM API updates affect code generation performance.   
 
