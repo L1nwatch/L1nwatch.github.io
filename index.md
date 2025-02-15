@@ -8,9 +8,9 @@ layout: default
 
 ## **Skills**
 
-[Skill-Tree: https://l1nwatch.github.io/skill-tree/](https://l1nwatch.github.io/skill-tree/)
+[Hands-on Experience Project List: https://l1nwatch.github.io/skill-tree/](https://l1nwatch.github.io/skill-tree/)
 
-[Hands-on Experience Project List: https://l1nwatch.github.io/skill-tree/project_list/project_list.html](https://l1nwatch.github.io/skill-tree/project_list/project_list.html)
+[Skill-Tree: https://l1nwatch.github.io/skill-tree/skills-hub/](https://l1nwatch.github.io/skill-tree/skills-hub/)
 
 - `Languages`: English (TOEFL 97, IELTS 7.5), Chinese (Native)
 - `Programming`: Proficient in Python; basic knowledge of Shell, Java, JavaScript, and C/C++.
