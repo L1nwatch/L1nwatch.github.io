@@ -4,10 +4,10 @@ layout: default
 
 # Resume
 
-**SDET | Test Automation Engineer | Concordia MS '25**
+SDET + Test Automation Engineer + Concordia MS '25
 
-**Contact**: watch1602@gmail.com | Montreal, Canada | Open to relocate across Canada  
-**LinkedIn**: [feng-lin](https://www.linkedin.com/in/feng-lin/) | **GitHub**: [L1nwatch](https://github.com/l1nwatch)
+**Contact**: watch1602@gmail.com + Montreal, Canada + Open to relocate across Canada  
+**LinkedIn**: [feng-lin](https://www.linkedin.com/in/feng-lin/) + **GitHub**: [L1nwatch](https://github.com/l1nwatch)
 
 ---
 
