@@ -4,7 +4,7 @@ layout: default
 
 # Resume
 
-**SDET | Test Automatio> Xidian University, Xi'an, China (August 2013 – July 2017) | **GPA: 3.7/4.0** Engineer | Concordia MS '25**
+**SDET | Test Automation Engineer | Concordia MS '25**
 
 **Contact**: watch1602@gmail.com | Montreal, Canada | Open to relocate across Canada  
 **LinkedIn**: [feng-lin](https://www.linkedin.com/in/feng-lin/) | **GitHub**: [L1nwatch](https://github.com/l1nwatch)
